@@ -1,2 +1,1 @@
-Pgadmin4.zip -> Uygulama
-Rapor.pdf -> SQL ifadeleri
+Pgadmin4.zip -> Uygulama , Rapor.pdf -> SQL ifadeleri
